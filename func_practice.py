@@ -21,5 +21,4 @@ def file_upper(infile,outfile):
 
 
 from math import sqrt, sin, pi
-print(sqrt(2))
 print(sin(pi)) #fromから書くことにより、math.とかを書く必要がなくなる
